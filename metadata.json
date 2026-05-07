@@ -1,0 +1,10 @@
+{
+  "name": "Assistente de Corridas",
+  "description": "Analise suas ofertas de corrida instantaneamente com IA para maximizar seus lucros.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "vision"
+  ]
+}
